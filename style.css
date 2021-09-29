@@ -1,0 +1,14 @@
+body {  
+    text-align: center;
+    background-color: #fff0db;
+    font-family: 'Dosis', sans-serif;
+}
+
+header {
+    background-color: #502d0d;
+    color: rgb(253, 247, 239);
+}
+
+nav {   
+    font-size: larger;    
+}
